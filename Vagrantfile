@@ -24,7 +24,7 @@ Vagrant.configure("2") do |config|
 
     # Download and deploy the YMB portfolio page
     mkdir -p /tmp/studentportfolio && cd /tmp/studentportfolio
-    wget https://github.com/.../main.zip -O main.zip
+    wget https://github.com/rrc-w2025-ravi/ymb-dev-environment/archive/refs/heads/main.zip -O main.zip
     unzip -o main.zip && cp -r Studentportfoliotemplate-main/* /var/www/html/
 
     # Create status file with provisioning date
