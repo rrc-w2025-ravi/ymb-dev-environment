@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"C:/Users/ravid/OneDrive/Documents/rrc-polytech/semester-4/Devops/Studentportfoliotemplate-main/Studentportfoliotemplate-main","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
